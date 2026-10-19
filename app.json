@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "BharathBuild",
+    "slug": "bharathbuild-mobile",
+    "scheme": "bharathbuild",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#0D2B45" },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.bharathbuild.mobile" },
+    "android": { "adaptiveIcon": { "backgroundColor": "#0D2B45" }, "package": "com.bharathbuild.mobile" },
+    "plugins": ["expo-router", "expo-secure-store"]
+  }
+}
